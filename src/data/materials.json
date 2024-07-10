@@ -1,0 +1,199 @@
+{
+  "Tier_1": [
+    { "name": "Module Data Block", "tier": 1, "components": [] },
+    {
+      "name": "D32 Steel",
+      "tier": 1,
+      "components": [
+        "Manganese Trihydrate",
+        "Grindstone Pentahydrate",
+        "RMA70-24"
+      ]
+    },
+    {
+      "name": "Bipolar Nanoflake",
+      "tier": 1,
+      "components": ["Optimized Device", "White Horse Kohl", "White Horse Kohl"]
+    },
+    {
+      "name": "Polymerization Preparation",
+      "tier": 1,
+      "components": ["Orirock Concentration", "Oriron Block", "Keton Colloid"]
+    },
+    {
+      "name": "Crystalline Electronic Unit",
+      "tier": 1,
+      "components": [
+        "Crystalline Circuit",
+        "Polymerized Gel",
+        "Polymerized Gel",
+        "Incandescent Alloy Block"
+      ]
+    },
+    {
+      "name": "Nucleic Crystal Sinter",
+      "tier": 1,
+      "components": [
+        "Transmuted Salt Agglomerate",
+        "Cutting Stock Solution",
+        "Refined Solvent",
+        "Refined Solvent"
+      ]
+    }
+  ],
+  "Tier_2": [
+    {
+      "name": "RMA70-24",
+      "tier": 2,
+      "components": ["RMA70-12", "Orirock Cluster", "Orirock Cluster", "Aketon"]
+    },
+    {
+      "name": "Grindstone Pentahydrate",
+      "tier": 2,
+      "components": ["Grindstone", "Oriron Cluster", "Integrated Device"]
+    },
+    {
+      "name": "Manganese Trihydrate",
+      "tier": 2,
+      "components": [
+        "Manganese Ore",
+        "Manganese Ore",
+        "Polyester Pack",
+        "Loxic Kohl"
+      ]
+    },
+    {
+      "name": "White Horse Kohl",
+      "tier": 2,
+      "components": ["Loxic Kohl", "Sugar Pack", "RMA70-12"]
+    },
+    {
+      "name": "Optimized Device",
+      "tier": 2,
+      "components": [
+        "Integrated Device",
+        "Orirock Cluster",
+        "Orirock Cluster",
+        "Grindstone"
+      ]
+    },
+    {
+      "name": "Keton Colloid",
+      "tier": 2,
+      "components": ["Aketon", "Aketon", "Sugar Pack", "Manganese Ore"]
+    },
+    {
+      "name": "Oriron Block",
+      "tier": 2,
+      "components": [
+        "Oriron Cluster",
+        "Oriron Cluster",
+        "Integrated Device",
+        "Polyester Pack"
+      ]
+    },
+    {
+      "name": "Polyester Lump",
+      "tier": 2,
+      "components": ["Polyester Pack", "Polyester Pack", "Aketon", "Loxic Kohl"]
+    },
+    {
+      "name": "Sugar Lump",
+      "tier": 2,
+      "components": [
+        "Sugar Pack",
+        "Sugar Pack",
+        "Oriron Cluster",
+        "Manganese Ore"
+      ]
+    },
+    {
+      "name": "Orirock Concentration",
+      "tier": 2,
+      "components": [
+        "Orirock Cluster",
+        "Orirock Cluster",
+        "Orirock Cluster",
+        "Orirock Cluster"
+      ]
+    },
+    {
+      "name": "Incandescent Alloy Block",
+      "tier": 2,
+      "components": ["Integrated Device", "Grindstone", "Incandescent Alloy"]
+    },
+    {
+      "name": "Polymerized Gel",
+      "tier": 2,
+      "components": ["Oriron Cluster", "Coagulating Gel", "Incandescent Alloy"]
+    },
+    {
+      "name": "Crystalline Circuit",
+      "tier": 2,
+      "components": [
+        "Crystalline Component",
+        "Crystalline Component",
+        "Coagulating Gel",
+        "Incandescent Alloy"
+      ]
+    },
+    {
+      "name": "Refined Solvent",
+      "tier": 2,
+      "components": [
+        "Semi-natural Solvent",
+        "Compound Cutting Fluid",
+        "Coagulating Gel"
+      ]
+    },
+    {
+      "name": "Cutting Stock Solution",
+      "tier": 2,
+      "components": [
+        "Compound Cutting Fluid",
+        "Crystalline Component",
+        "RMA70-12"
+      ]
+    },
+    {
+      "name": "Transmuted Salt Agglomerate",
+      "tier": 2,
+      "components": ["Transmuted Salt", "Semi-natural Solvent", "Sugar Pack"]
+    },
+    {
+      "name": "Solidified Fiber Board",
+      "tier": 2,
+      "components": [
+        "Fuscous Fiber",
+        "Polyester Pack",
+        "Polyester Pack",
+        "Orirock Cluster"
+      ]
+    },
+    {
+      "name": "Cyclicene Prefab",
+      "tier": 2,
+      "components": ["Aggregate Cyclicene", "Fuscous Fiber", "Transmuted Salt"]
+    }
+  ],
+  "Tier_3": [
+    { "name": "RMA70-12", "tier": 3, "components": [] },
+    { "name": "Grindstone", "tier": 3, "components": [] },
+    { "name": "Manganese Ore", "tier": 3, "components": [] },
+    { "name": "Loxic Kohl", "tier": 3, "components": [] },
+    { "name": "Integrated Device", "tier": 3, "components": [] },
+    { "name": "Aketon", "tier": 3, "components": [] },
+    { "name": "Oriron Cluster", "tier": 3, "components": [] },
+    { "name": "Polyester Pack", "tier": 3, "components": [] },
+    { "name": "Sugar Pack", "tier": 3, "components": [] },
+    { "name": "Orirock Cluster", "tier": 3, "components": [] },
+    { "name": "Incandescent Alloy", "tier": 3, "components": [] },
+    { "name": "Coagulating Gel", "tier": 3, "components": [] },
+    { "name": "Crystalline Component", "tier": 3, "components": [] },
+    { "name": "Semi-natural Solvent", "tier": 3, "components": [] },
+    { "name": "Compound Cutting Fluid", "tier": 3, "components": [] },
+    { "name": "Transmuted Salt", "tier": 3, "components": [] },
+    { "name": "Fuscous Fiber", "tier": 3, "components": [] },
+    { "name": "Aggregate Cyclicene", "tier": 3, "components": [] }
+  ]
+}
